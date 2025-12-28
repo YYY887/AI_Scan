@@ -4,8 +4,16 @@
 
 ## GitHub 仓库
 
-- 仓库地址：https://github.com/YYY887/AI_Scan
-- 克隆命令：`git clone https://github.com/YYY887/AI_Scan.git`
+- GitHub: https://github.com/YYY887/AI_Scan
+- Gitee: https://gitee.com/yangxiaoyude/ai_-scan
+- 克隆命令：
+  ```bash
+  # GitHub
+  git clone https://github.com/YYY887/AI_Scan.git
+  
+  # Gitee（国内访问更快）
+  git clone https://gitee.com/yangxiaoyude/ai_-scan.git
+  ```
 
 ## 效果展示
 
@@ -50,11 +58,13 @@
 # 从 GitHub 克隆
 git clone https://github.com/YYY887/AI_Scan.git
 
-# 或从 Gitee 克隆（如果有镜像）
-git clone https://gitee.com/你的用户名/你的仓库名.git
+# 或从 Gitee 克隆（国内访问更快）
+git clone https://gitee.com/yangxiaoyude/ai_-scan.git
 
 # 进入项目目录
-cd AI_Scan/screenshot-ai-extension
+cd AI_Scan/screenshot-ai-extension  # 如果是GitHub
+# 或
+cd ai_-scan/screenshot-ai-extension  # 如果是Gitee
 ```
 
 然后按照上面"加载到浏览器"的步骤操作。
