@@ -48,13 +48,13 @@
 
 ```bash
 # 从 GitHub 克隆
-git clone https://github.com/你的用户名/你的仓库名.git
+git clone https://github.com/YYY887/AI_Scan.git
 
-# 或从 Gitee 克隆
+# 或从 Gitee 克隆（如果有镜像）
 git clone https://gitee.com/你的用户名/你的仓库名.git
 
 # 进入项目目录
-cd 你的仓库名/screenshot-ai-extension
+cd AI_Scan/screenshot-ai-extension
 ```
 
 然后按照上面"加载到浏览器"的步骤操作。
