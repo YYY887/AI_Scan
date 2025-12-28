@@ -2,6 +2,11 @@
 
 一个结合豆包API的浏览器插件，可以框选截图并进行AI智能分析。
 
+## GitHub 仓库
+
+- 仓库地址：https://github.com/YYY887/AI_Scan
+- 克隆命令：`git clone https://github.com/YYY887/AI_Scan.git`
+
 ## 效果展示
 
 ### 插件配置界面
